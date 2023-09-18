@@ -1,15 +1,13 @@
-Grafos1 - Futebol
-
 # Conectividade dos Times 
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1
+**Conteúdo da Disciplina**: Grafos 1
 
 ## Aluno
 
 |Matrícula | Aluno |
 | -- | -- |
-| 21/1029559  | [Rafael Brito Bosi Rodrigues]() |
+| 21/1029559  | [Rafael Brito Bosi Rodrigues](https://github.com/StrangeUnit28) |
 
 ## Sobre 
 
