@@ -1,6 +1,7 @@
 # Conectividade dos Times 
 
 **Número da Lista**: 1
+
 **Conteúdo da Disciplina**: Grafos 1
 
 ## Aluno
