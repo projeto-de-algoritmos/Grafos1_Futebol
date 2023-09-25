@@ -18,15 +18,25 @@ As questões apresentam diferentes níveis de dificuldade, classificadas pelos p
 
 O primeiro problema é o "847 - Shortest Path Visiting All Nodes" - disponível em: [Leetcode.com](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/). Classificado como difícil.
 
-O segundo problema foi o 
+O segundo problema foi o "332 - Reconstruct Itinerary" - disponível em: [Leetcode.com](https://leetcode.com/problems/reconstruct-itinerary/description/). Classificado como difícil.
 
 O terceiro problema foi o 
 
-## "847 - Shortest Path Visiting All Nodes"
+## 847 - Shortest Path Visiting All Nodes
 
-![Problema - 847](./imgs/image.png)
+![Problema - 847](./imgs/837.png)
 
-## 
+## 332 - Reconstruct Itinerary
+
+![Problema - 332](./imgs/332.png)
+
+##
+
+
+
+## Vídeo de explicação
+
+
 
 
 
