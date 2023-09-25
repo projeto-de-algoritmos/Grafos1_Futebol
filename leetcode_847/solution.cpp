@@ -1,0 +1,1 @@
+// Solução proposta para o exercício "847 - Shortest Path Visiting All Nodes"
