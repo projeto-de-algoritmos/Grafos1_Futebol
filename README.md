@@ -16,23 +16,23 @@ Repositório destinado a guardar as soluções de alguns problemas de grafos enc
 
 As questões apresentam diferentes níveis de dificuldade, classificadas pelos próprios sites onde foram realizadas. Todas as questões aqui presentes foram resolvidas com 100% de aceitação pelos juizes online.
 
-O primeiro problema é o "847 - Shortest Path Visiting All Nodes" - disponível em: [Leetcode.com](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/). Classificado como difícil.
+O primeiro problema é o "847 - Shortest Path Visiting All Nodes" - disponível em: [Leetcode.com](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/). Exercício classificado como **difícil**.
 
-O segundo problema foi o "332 - Reconstruct Itinerary" - disponível em: [Leetcode.com](https://leetcode.com/problems/reconstruct-itinerary/description/). Classificado como difícil.
+O segundo problema foi o "332 - Reconstruct Itinerary" - disponível em: [Leetcode.com](https://leetcode.com/problems/reconstruct-itinerary/description/). Exercício classificado como **difícil**.
 
-O terceiro problema foi o 
+O terceiro problema foi o "785 - Is Graph Bipartite?" - disponível em: [Leetcode.com](https://leetcode.com/problems/is-graph-bipartite/description/). Exercício classificado como **Médio**.
 
 ## 847 - Shortest Path Visiting All Nodes
 
-![Problema - 847](./imgs/837.png)
+![Problema - 847](./imgs/847.png)
 
 ## 332 - Reconstruct Itinerary
 
 ![Problema - 332](./imgs/332.png)
 
-##
+## 785 - Is Graph Bipartite?
 
-
+![Problema - 785](./imgs/785.png)
 
 ## Vídeo de explicação
 
