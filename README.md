@@ -49,12 +49,15 @@ Na imagem acima é possível ver a descrição do problema, além disso a soluç
 ## Vídeos de explicação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zp29guH1ebQ?si=EnApkDf_OopE7A24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Vídeo 1 - Exercício 847
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xfunUtEhdB8?si=t7MDi4BAEfjjbNTD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Vídeo 2 - Exercício 332
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f6UxY39cvSI?si=aNThk8DO-Bi2IUnr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Vídeo 3 - Exercício 785
 
 
